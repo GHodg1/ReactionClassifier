@@ -8,8 +8,6 @@ These templates are stored in the JSON data for each reaction in the post-proces
 This script has to be run with the specific rxn-utils-env environment.
 """
 
-
-
 import pandas as pd
 from rxnutils.chem.reaction import ChemicalReaction
 from rxnutils.chem.template import ReactionTemplate

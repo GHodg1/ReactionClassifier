@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Data
+data/one_step_reactions.csv
+# Output
+output/classified_reactions.csv
+output/heterocycle_reactions.csv
+output/single_product_one_step_reactions_with_templates.csv
+output/single_product_one_step_reactions.csv
+
+# Virtual environments
+.venv
+# Unused project Structure Files
+uv.lock

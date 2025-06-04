@@ -33,7 +33,7 @@ wget [https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86\_64.sh](ht
 Navigate to the directory you would like to store this projects code in the terminal and enter:
 
 ```bash
-git clone 
+git clone "https://github.com/GHodg1/ReactionClassifier.git"
 && cd ReactionClassifier
 
 ```

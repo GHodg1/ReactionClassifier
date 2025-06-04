@@ -213,4 +213,3 @@ dependencies:
       - wrapt-timeout-decorator==1.5.1
       - xxhash==2.0.2
       - zipfile-deflate64==0.2.0
-prefix: /home/ghodgin/miniconda3/envs/rxn-utils-env
